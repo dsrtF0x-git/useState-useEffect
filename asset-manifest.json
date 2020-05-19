@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/useState-useEffect/static/css/main.2fba6799.chunk.css",
+    "main.js": "/useState-useEffect/static/js/main.2b917fdc.chunk.js",
+    "main.js.map": "/useState-useEffect/static/js/main.2b917fdc.chunk.js.map",
+    "runtime-main.js": "/useState-useEffect/static/js/runtime-main.27fcea13.js",
+    "runtime-main.js.map": "/useState-useEffect/static/js/runtime-main.27fcea13.js.map",
+    "static/js/2.8cb09852.chunk.js": "/useState-useEffect/static/js/2.8cb09852.chunk.js",
+    "static/js/2.8cb09852.chunk.js.map": "/useState-useEffect/static/js/2.8cb09852.chunk.js.map",
+    "index.html": "/useState-useEffect/index.html",
+    "precache-manifest.30479a3e24eb7b06730c3afc8e0e5151.js": "/useState-useEffect/precache-manifest.30479a3e24eb7b06730c3afc8e0e5151.js",
+    "service-worker.js": "/useState-useEffect/service-worker.js",
+    "static/css/main.2fba6799.chunk.css.map": "/useState-useEffect/static/css/main.2fba6799.chunk.css.map",
+    "static/js/2.8cb09852.chunk.js.LICENSE.txt": "/useState-useEffect/static/js/2.8cb09852.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27fcea13.js",
+    "static/js/2.8cb09852.chunk.js",
+    "static/css/main.2fba6799.chunk.css",
+    "static/js/main.2b917fdc.chunk.js"
+  ]
+}
